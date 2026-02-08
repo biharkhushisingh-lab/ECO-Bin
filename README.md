@@ -7,6 +7,10 @@
 
 **Hosted URL:** https://ecobin-recycling.netlify.app/
 
+## 🎬 Demo Video
+
+**Watch the demo:** [EcoBin Demo Video](https://drive.google.com/file/d/1oQVZKXKXvEpa2K9BhMKeeBPKkFM3wLEH/view?usp=drivesdk)
+
 > **Transform e-waste into eco-rewards** – A gamified platform that makes electronic waste recycling easy, rewarding, and fun!
 
 ---
