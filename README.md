@@ -123,7 +123,7 @@
 
 ## 📹 Demo Video
 
-**Watch our walkthrough:** [Google Drive Link](YOUR_DEMO_VIDEO_LINK_HERE)
+**Watch our walkthrough:** https://drive.google.com/file/d/1oQVZKXKXvEpa2K9BhMKeeBPKkFM3wLEH/view?usp=drivesdk
 
 ---
 
