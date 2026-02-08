@@ -1,6 +1,6 @@
 # 🌱 EcoBin – Smart E-Waste Recycling Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://biharkhushisingh-lab.github.io/ECO-Bin/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://resilient-sundae-5cefb6.netlify.app/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > **Transform e-waste into eco-rewards** – A gamified platform that makes electronic waste recycling easy, rewarding, and fun!
@@ -48,6 +48,18 @@
 - **Pre-programmed FAQs** – Quick buttons for batteries, points, and center locations
 
 ### 🗺️ **Live Interactive Map**
+- **Real-time geolocation** – Automatically detects your location
+- **3 Nearest Bins** – Sorted by proximity with distance calculation
+- **One-click navigation** – Direct integration with Google Maps
+- **Bin details** – Contact info, capacity status, operating hours
+
+### 👨‍💼 **Admin Dashboard (NEW!)**
+- **Geographic Overview** – Interactive map with all bins across the city
+- **Real-Time Monitoring** – Live bin fill levels, status tracking
+- **Smart Alerts System** – Automatic notifications for full bins and maintenance
+- **Analytics Dashboard** – Waste collected, value generated, user engagement stats
+- **Route Optimization** – Collection planning for optimal efficiency
+- **Filter & Search** – Quick access to operational, full, or maintenance bins
 - **Real Geolocation** – Find your exact location
 - **Nearby Centers** – See 3 closest recycling bins
 - **Get Directions** – One-click Google Maps navigation
@@ -89,7 +101,7 @@
 
 ## 🚀 Live Demo
 
-### **👉 [Try EcoBin Now!](https://biharkhushisingh-lab.github.io/ECO-Bin/)**
+### **👉 [Try EcoBin Now!](https://resilient-sundae-5cefb6.netlify.app/)**
 
 **Test the complete flow:**
 1. Click "Start Recycling"
