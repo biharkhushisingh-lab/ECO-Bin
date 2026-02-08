@@ -2049,7 +2049,9 @@ body {
         bottom: var(--space-md);
         right: var(--space-md);
     }
-}/* ==========================================
+}
+
+/* ==========================================
    Landing/Login Screen
    ========================================== */
 
@@ -2299,6 +2301,7 @@ body {
         font-size: 1.125rem;
     }
 }
+
 /* ==========================================
    Improved Map Screen Styles
    ========================================== */
@@ -2550,6 +2553,7 @@ body {
         font-size: 0.8125rem;
     }
 }
+
 /* ==========================================
    Map Screen - Show Centers Button & Layout
    ========================================== */
@@ -2634,6 +2638,7 @@ body {
     letter-spacing: 0.5px;
     margin: 0 0 var(--space-sm);
 }
+
 /* ==========================================
    Signup Screen Styles
    ========================================== */
@@ -2828,6 +2833,7 @@ body {
         padding: var(--space-lg);
     }
 }
+
 /* ==========================================
    Floating Home Button
    ========================================== */
@@ -2890,6 +2896,41 @@ body {
         height: 22px;
     }
 }
+
+/* ==========================================
+   Back Button (Home Screen)
+   ========================================== */
+
+.btn-back-home {
+    position: absolute;
+    top: var(--space-md);
+    left: var(--space-md);
+    width: 48px;
+    height: 48px;
+    background: white;
+    border: none;
+    border-radius: var(--radius-md);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all var(--transition-base);
+    box-shadow: var(--shadow-sm);
+    z-index: 10;
+}
+
+.btn-back-home:hover {
+    background: var(--color-primary-lighter);
+    transform: translateX(-4px);
+    box-shadow: var(--shadow-md);
+}
+
+.btn-back-home svg {
+    width: 24px;
+    height: 24px;
+    color: var(--color-primary);
+}
+
 /* ==========================================
    Logout Button (Home Screen)
    ========================================== */
@@ -2942,6 +2983,7 @@ body {
         justify-content: center;
     }
 }
+
 /* ==========================================
    Back to App Button (Landing Screen)
    ========================================== */
@@ -2991,6 +3033,7 @@ body {
         justify-content: center;
     }
 }
+
 /* ==========================================
    Header Back Button
    ========================================== */
